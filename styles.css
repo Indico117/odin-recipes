@@ -1,0 +1,26 @@
+#buttons li{
+    float: left;
+    list-style: none;
+    text-align: center;
+    background-color: #000000;
+    margin-right: 30px;
+    width: 200px;
+    line-height: 60px;
+}
+
+#buttons li a {
+    text-decoration: none;
+    color: #FFFFFF;
+    display: block;
+}
+
+#buttons li a:hover {
+    text-decoration: none;
+    color: #000000;
+    background-color: gold;
+}
+
+#title {
+    text-indent: 0%;
+    color: gold
+}
