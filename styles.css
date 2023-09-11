@@ -1,3 +1,6 @@
+.header {
+    background-color: aqua;
+}
 #buttons li{
     float: left;
     list-style: none;
@@ -21,6 +24,12 @@
 }
 
 #title {
-    text-indent: 0%;
-    color: gold
+    color: gold;
+    height: auto;
+    width: 108px;
+    display: block;
+    padding: 10px;
+    border: 5px solid black;
+    margin-left: 300px;
+    background-color: black;
 }
